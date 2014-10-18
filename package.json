@@ -1,0 +1,30 @@
+{
+  "name": "gamerscoin",
+  "description": "Communicate with gamerscoind via JSON-RPC",
+  "version": "2.2.0",
+  "main": "lib/index.js",
+  "keywords": [
+    "gamerscoin",
+    "rpc"
+  ],
+  "author": "Bill Casarin <bill@casarin.ca> (jb55.com)",
+  "contributors": [
+    "Sean Lavine <sean@eternalrise.com>"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.13.0",
+    "clone": "~0.1.10"
+  },
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gamers-coin/node-gamerscoin.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}
