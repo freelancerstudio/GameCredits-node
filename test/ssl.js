@@ -1,11 +1,11 @@
 var assert = require('assert'),
     fs = require('fs'),
     clone = require('clone'),
-    bitcoin = require('../'),
+    gamerscoin = require('../'),
     config = require('./config');
 
 var getInfo = function(opts, cb) {
-  var client = new bitcoin.Client(opts);
+  var client = new gamerscoin.Client(opts);
   client.getInfo(cb);
 };
 

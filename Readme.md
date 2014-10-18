@@ -1,4 +1,4 @@
-# node-gamerscoin [![Build Status](https://travis-ci.org/freewil/node-bitcoin.svg?branch=master)](https://travis-ci.org/freewil/node-bitcoin)
+# node-gamerscoin
 
 node-gamerscoin is a simple wrapper for the gamerscoin client's JSON-RPC API.
 
