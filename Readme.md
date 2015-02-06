@@ -1,10 +1,13 @@
-# node-gamerscoin
+# node-GameCredits
 
-node-gamerscoin is a simple wrapper for the gamerscoin client's JSON-RPC API.
+node-GameCredits is a simple wrapper for the GameCredits client's JSON-RPC API.
 
 The API is equivalent to the API document [here](http://gamers-coin.org/apihelp).
 The methods are exposed as lower camelcase methods on the `gamerscoin.Client`
 object, or you may call the API directly using the `cmd` method.
+
+# We :heart: Pull Requests!
+Seriously, we really do.  It doesn't matter whether you're fixing a typo or overhauling a major area of the code base.  You will be showered in :thumbsup: :thumbsup: :thumbsup:<br><br>
 
 ## Install
 
